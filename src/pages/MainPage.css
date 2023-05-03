@@ -59,6 +59,31 @@ color: #FFFFFF;
     flex-direction: row-reverse;
 }
 
+.questions {
+    margin: 75px auto;
+    width: 1140px;
+    text-align: center;
+}
+
+.question {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.question p {
+    padding: 10px;
+}
+.questions h2 {
+    margin-bottom: 35px;
+}
+.question .header {
+    padding: 10px 0;
+    width: 1140px;
+    color: black;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
 .footer {
     background-color: #332F2F;
     width: 100%;

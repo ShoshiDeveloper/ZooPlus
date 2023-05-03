@@ -39,6 +39,20 @@ const MainPage = () => {
                 </div>
             </div>
             <div className="questions">
+                <h2>Часто задаваемые вопросы</h2>
+                <div className="question">
+                    <div className="header">
+                        <p>Почему собак важно прививать?</p>
+                    </div>
+                    <p>Потому что надо.</p>
+                </div>
+
+                <div className="question">
+                    <div className="header">
+                        <p>Какой-то вопрос</p>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                </div>
                 
             </div>
             <div className="footer">
