@@ -1,0 +1,27 @@
+.advantage {
+    color: white;
+    margin-top: 30px;
+    padding: 35px 30px;
+    background: linear-gradient(104.1deg, #5D6BE7 0%, #5EAEE9 108.89%);
+    border-radius: 50px;
+    max-width: 666px;
+
+    text-align: start;
+}
+.Heading img {
+    width: 46px;
+    height: 46px;
+}
+.Heading {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+
+
+    display: flex;
+    font-size: 24px;
+    flex-direction: row;
+    gap: 10px;
+
+}

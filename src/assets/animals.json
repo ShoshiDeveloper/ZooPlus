@@ -1,0 +1,81 @@
+[{
+    "type": "Кошачьи",
+    "breed": "persid",
+    "image": "/type_of_animal_icons/cat.png",
+    "text": "Сфинкс",
+    "checked": false,
+    "interesting_facts": [
+        "Средняя продолжительность жизни – 9-12 лет.",
+        "Бесшерстные кошки считаются гипоаллергенными, однако это мнение ошибочно, так как реакция возникает не на шерсть, а на выделяемый секрет.",
+        "Порода бамбино – результат скрещивания канадского сфинкса с манчкином. Для нее характерны длинное тело, короткие лапки и практически полное отсутствие шерсти.",
+        "Котята рождаются с шерстью. Со временем она практически полностью выпадает, остаются лишь короткие тонкие волоски.",
+        "Несмотря на то, что на ощупь сфинкс кажется горячим, у него такая же температура тела, как и у других кошек.",
+        "Сфинксы считаются идеальными компаньонами для детей. Они не склонны к агрессии, терпеливы к детским шалостям, с удовольствием будут участвовать в играх."
+    ],
+    "diseases": [
+        "Респираторные", "Кератит", "Пищевая аллергия", "Пигментная крапивица", "Заболевания сердца", "Миастенический синдром"
+    ],
+    "vaccinations_description": "Прививать котят-сфинксов начинают с 2-ух месяцев. Через 3-4 недели следует ревакцинация, и последующие прививки раз в год.",
+    "vaccinations": [
+        "От бешенства", "Ринотрахеита", "Хламидиоза", "Калцивируса"
+    ],
+    "description":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molesti"
+},{
+    "type": "Кошачьи",
+    "breed": "siamskaya",
+    "image": "/type_of_animal_icons/cat.png",
+    "text": "Сиамская",
+    "checked": false,
+    "interesting_facts": [
+        "Интересный факт сиамской 1",
+        "Интересный факт сиамской 2",
+        "Интересный факт сиамской 3"
+    ],
+    "diseases": [
+        "Респираторные", "Кератит", "Пищевая аллергия"
+    ],
+    "vaccinations_description": "Прививать стоит от стольки-то",
+    "vaccinations": [
+        "От бешенства", "Хламидиоза"
+    ],
+    "description":"ghahghahghawj"
+},{
+    "type": "Кошачьи",
+    "breed": "poch",
+    "image": "/type_of_animal_icons/cat.png",
+    "text": "Почемучная",
+    "checked": false,
+    "interesting_facts": [
+        "Интересный факт Почемучной 1",
+        "Интересный факт Почемучной 2",
+        "Интересный факт Почемучной 3"
+    ],
+    "diseases": [
+        "Респираторные", "Кератит", "Пищевая аллергия", "ПИЩЕГЛОД"
+    ],
+    "vaccinations_description": "",
+    "vaccinations": [
+        
+    ],
+    "description":"ghahghahghawj"
+},{
+    "type": "Собаки",
+    "breed": "gey",
+    "image": "/type_of_animal_icons/dog.png",
+    "text": "Гейактер",
+    "checked": false,
+    "interesting_facts": [
+        "Я собака, ты собака",
+        "Кто я?",
+        "Вместе мы собаки, Ты собака - я собака"
+    ],
+    "diseases": [
+        "Респираторные", "Кератит", "Пищевая аллергия"
+    ],
+    "vaccinations_description": "",
+    "vaccinations": [
+        
+    ],
+    "description":"ghahghahghawj"
+}
+]

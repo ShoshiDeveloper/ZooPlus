@@ -1,0 +1,48 @@
+.button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    gap: 15px;
+
+    width: 215px;
+    height: 215px;
+
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    border-radius: 15px;
+}
+
+.button_checked {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    gap: 15px;
+
+    width: 215px;
+    height: 215px;
+
+    background: #FFFFFF;
+    border: 0px;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 15px;
+}
+
+.button:hover {
+    border: 0px;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.15);
+}
+
+p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+}
+.picture {
+    border-radius: 360px;
+}

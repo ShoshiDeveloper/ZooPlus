@@ -1,0 +1,150 @@
+body {
+    background-color:white ;
+}
+header {
+    height: 700px;
+
+    background-image: url("../../assets/aboutBG.png");
+    background-size: 100%;
+    background-position: bottom;
+    /* background: linear-gradient(104.1deg, #5D6BE7 0%, #5EAEE9 108.89%); */
+}
+
+.interesting_fact {
+    height: 385px;
+}
+
+.diseases {
+    /* height: 260px; */
+    margin: 45px 0;
+}
+
+.vaccinations {
+    height: 250px;
+}
+
+h2 {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 36px;
+/* identical to box height, or 112% */
+
+
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding-left: 35px;
+    margin-top: 10px;
+}
+li {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+}
+
+main {
+    margin: 20px 50px;
+}
+
+.diseases_list {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.diseas_button {
+    width: 330px;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+
+    border: 1px solid #000000;
+    border-radius: 15px;
+
+    text-align: center;
+    align-items: center;
+}
+
+.diseas_button:hover {
+    border: 0;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.15);
+}
+
+.diseas_button_active {
+    width: 330px;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    border: 0;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+
+}
+.about_diseas {
+    margin-top: 15px;
+}
+.sb {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+/* ------------- */
+
+.about_animal {
+    padding: 0 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.cat_picture {
+    width: 440px;
+    height: 514px;
+    background-color: white;
+    border-radius: 25px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cat_picture img {
+    margin: 0 auto;
+    width: 220px;
+    height: 257px;
+}
+.about {
+    width: 780px;
+    color: white;
+}
+.about h1 {
+    
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 52px;
+}
+.about h3 {
+    
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+}
+.about p {
+    margin-top: 25px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+}
