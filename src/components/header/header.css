@@ -1,0 +1,56 @@
+
+.text-black {
+  color:black !important
+}
+
+.text-white {
+  color:white !important
+}
+
+.font-bold {
+  font-weight: bold !important;
+
+}
+
+.nav {
+    padding: 25px 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    color: white;
+}
+
+.nav_buttons {
+    display: flex;
+    gap: 20px;
+}
+
+ .closed {
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration-line: none;
+    text-decoration: none;   
+    color: white;
+
+    -webkit-text-stroke: 0.1px solid #4D60E9;
+}
+
+.opened {
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration-line: none;
+    text-decoration: none;   
+    color: white;
+  
+    -webkit-text-stroke: 0.1px solid #4D60E9;
+  }
+
+
